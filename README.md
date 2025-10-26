@@ -1,5 +1,4 @@
 # blast-from-the-past-issues
-with the only purpose of report any issues of the mod
 java.lang.IllegalArgumentException: Failed to create model for minecraft:sniffer
 	at net.minecraft.client.renderer.entity.EntityRenderers.m_257087_(EntityRenderers.java:164) ~[client-1.20.1-20230612.114412-srg.jar%23320!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:goety.mixins.json:EntityRenderersMixin,pl:mixin:A}
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?] {re:mixin}
